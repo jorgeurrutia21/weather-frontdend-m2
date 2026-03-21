@@ -1,26 +1,34 @@
 # weather-frondend-m2
 
-Este proyecto es una plataforma que muestra el estado del tiempo en distintas ciudades
+# Estado del tiempo en ciudades de Chile
 
-lenguajes utilizados
--HTML
--CSS
--JS
+Este proyecto corresponde a una plataforma web orientada a mostrar el estado del tiempo en distintas ciudades de Chile, presentando la información de manera clara, ordenada y accesible para el usuario.
 
-Caracteristicas
--mustra el timepo en diez ciudades de chile
--al pulsar en una de ellas muestra en detalle el clima actual y durante los proximos 6 dias
+## Tecnologías utilizadas
 
-Como ejecutar el proyecto
+- HTML
+- CSS
+- JavaScript
 
-1.descargar o clonar este repositorio desde este link https://github.com/jorgeurrutia21/weather-frontdend-m2
-2.abrir la carpeta del proyecto
-3.ejecutar el archivo index en el navegador (idealment google chrome)
+## Características principales
 
-Objetivo
+- Visualización del estado del tiempo en diez ciudades de Chile.
+- Consulta detallada del clima actual al seleccionar una ciudad.
+- Visualización del pronóstico meteorológico para los próximos 6 días.
 
--entregar informacion del tiempo en algunas ciudades de chile asi como tambien un pronostico para los proximos 6 dias.
+## Ejecución del proyecto
 
-Autor
+Para ejecutar este proyecto de manera local, siga los siguientes pasos:
 
--Jorge Urrutia
+1. Descargar o clonar este repositorio desde el siguiente enlace:
+   https://github.com/jorgeurrutia21/weather-frontdend-m2
+2. Abrir la carpeta del proyecto en su equipo.
+3. Ejecutar el archivo index.html en un navegador web, idealmente Google Chrome.
+
+## Objetivo del proyecto
+
+El objetivo principal de esta plataforma es entregar información meteorológica de distintas ciudades de Chile, permitiendo al usuario consultar tanto el clima actual como el pronóstico estimado para los próximos 6 días.
+
+## Autor
+
+Jorge Urrutia
