@@ -1,0 +1,56 @@
+.card-ciudad {
+    cursor: pointer;
+    transition:
+        transform 0.5s,
+        box-shadow 0.5s;
+}
+
+.card-ciudad:hover {
+    transform: translateY(-5px);
+    /* box-shadow recibe hasta 5 propiedades */
+    /* desplazamiento-x desplazamiento-y desenfoque propagacion color */
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.9);
+}
+
+.card-ciudad .card-img-top {
+    height: 200px;
+}
+
+#vista-detalle {
+    background-color: #595a5dd8;
+    color: #ededed;
+}
+
+#detalle-container .img-fluid {
+    max-height: 400px;
+}
+
+#detalle-container .list-group-item {
+    background-color: #eaecef;
+    color: #f8f9f9;
+}
+
+body {
+    background-color: #595a5dd8;
+}
+
+h1 {
+    color: white;
+    text-shadow: 6px 6px 11px #000000;
+}
+
+h2 {
+    color: white;
+    text-shadow: 2px 2px 6px #000000;
+    font-size: 3dvh;
+}
+
+nav {
+    background-color: #336699;
+    color: #ffffff;
+}
+
+footer {
+    background-color: #336699;
+    color: #ffffff;
+}
