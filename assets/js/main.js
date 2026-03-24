@@ -20,7 +20,7 @@ const ciudades = [
         humedad: "40%",
         viento: "14 km/h",
         pronostico: "CIELO COMPLETAMENTE DESPEJADO.",
-        imagen: "assets/css/img/antofagasta.jpg",
+        imagen: "assets/css/img/valparaiso.jpg",
         dias: ["lunes", "martes", "miercoles", "jueves", "viernes", "sabado"],
     },
     {
